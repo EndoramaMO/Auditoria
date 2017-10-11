@@ -20,7 +20,7 @@ git commit -m "%input%"
 echo.
 echo --- Pushing changes to repository (git push)
 
-git push
+git push https://github.com/EndoramaMO/Auditoria master
 
 echo.
 pause 
