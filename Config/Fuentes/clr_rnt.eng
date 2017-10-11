@@ -1,0 +1,10 @@
+Window's Default,FFFFFFF7,FFFFFFFA,6,0
+Control's Default,FFFFFFF7,FFFFFFFA,6,0
+MDI Frame,FFFFFFF7,FFFFFFF3,6,0
+LetraBlancaFondoTransparente,00FFFFFF,00FFFFFF,1,0
+LetraNegraFondoTransparente,00000000,00FFFFFF,1,0
+LetraNegraFondoGrisClaro,00000000,00FFF2E6,0,0
+LetraBlancaFondoAzul,00FFFFFF,00FF8000,0,0
+LetraAzulFondoBlanco,00FF8000,00FFFFFF,0,0
+LetraNegraFondoAzulClaro,00000000,00FFE6CC,0,0
+LetraNegraFondoGrisClaro,00000000,00EEEEEE,0,0
